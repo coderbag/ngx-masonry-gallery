@@ -1,10 +1,10 @@
 [![npm version](https://badge.fury.io/js/ngx-masonry-gallery.svg)](https://badge.fury.io/js/ngx-masonry-gallery)
-[![Build Status](https://api.travis-ci.org/Enngage/ngx-masonry-gallery.svg?branch=master)](https://travis-ci.org/Enngage/ngx-masonry-gallery)
+[![Build Status](https://api.travis-ci.org/coderbag/ngx-masonry-gallery.svg?branch=master)](https://travis-ci.org/coderbag/ngx-masonry-gallery)
 [![NPM](https://nodei.co/npm/ngx-masonry-gallery.png?mini=true)](https://nodei.co/npm/ngx-masonry-gallery/)
 
 # Masonry gallery for Angular
 
-For documentation & live demo visit [https://enngage.github.io/ngx-masonry-gallery/](https://enngage.github.io/ngx-masonry-gallery/)
+For documentation & live demo visit [https://coderbag.github.io/ngx-masonry-gallery/](https://coderbag.github.io/ngx-masonry-gallery/)
 
 Supported version: `Angular 6+`
 
